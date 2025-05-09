@@ -5,6 +5,7 @@ This repository contains the development of workshops and the final project for 
 ## Repository Structure
 
 - `/Workshop-1`: Design of an autonomous and cybernetic system (Autonomous Adaptive Agent). Includes the PDF document with system requirements, proposed architecture, selected tools, and development timeline.
+- `/Workshop-2`: Adaptive Package Delivery Drone Simulation with Dynamic Feedback Loops. Includes phase diagrams and the diagram of a feedback loop in the system.
 
 > Additional workshops and the final project will be added progressively.
 
